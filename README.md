@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kukowytelefon/Test/_apis/build/status/kukowytelefon.pipelines-java?branchName=master)](https://dev.azure.com/kukowytelefon/Test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
